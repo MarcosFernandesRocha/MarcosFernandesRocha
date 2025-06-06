@@ -8,9 +8,6 @@ Cientista de dados em formação com projetos os principais desenvolvidos nas á
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosFernandesRocha&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-### Projetos
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosFernandesRocha&repo=previsao-renda.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
