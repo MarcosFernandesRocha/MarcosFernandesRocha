@@ -10,4 +10,4 @@ Cientista de dados em formação com projetos os principais desenvolvidos nas á
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosFernandesRocha&repo=Projeto-analise-credito-SQL.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MarcosFernandesRocha&repo=telemarketing-analysis.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
